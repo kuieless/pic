@@ -1,0 +1,7 @@
+{
+  "name": "Merry Christmas Qian",
+  "description": "A magical interactive particle Christmas tree experience controlled by hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
